@@ -1,4 +1,4 @@
-# hellow-world
+# hello-world
 A new repository for my idea and code
 
 Hi human!
